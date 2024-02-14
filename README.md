@@ -51,5 +51,5 @@ Response
 
 1. Clone the repository: git clone https://github.com/fpsbr/shorten-url.git
 2. Navigate to the project directory: cd shorten-url
-3. Build and run the Go program: go run main.go
+3. Build and run the Go program: make run
 4. The server will start running at http://localhost:8080
